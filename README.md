@@ -7,7 +7,7 @@
 1. Wikipedia search app  [react-workshop-wikipedia](https://github.com/Mohamed-amin/react-workshop-wikipedia)
 1. weather app
 1. Build a shopping cart
-1. List/ Filter results/ Multi search (ex: Github issues page)
+1. List/ Filter results/ AND search [react-advanced-list](https://github.com/Mohamed-amin/react-advanced-list)
 1. Note taking app
 1. Auto Complete
 1. Error / Modal / Global Loader
