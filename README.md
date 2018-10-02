@@ -1,5 +1,5 @@
 # React Workshop
-**Brief** started this workshop to lean react by doing simple projects, the aim is to cover basic concepts to more advanced ones, as well as covering the common design patterns for react app.
+**Brief** started this workshop to teach / mentor react by doing simple projects for group of friends , the aim is to cover basic concepts to more advanced ones, as well as covering the common design patterns for react app.
 
 
 **Projects**
